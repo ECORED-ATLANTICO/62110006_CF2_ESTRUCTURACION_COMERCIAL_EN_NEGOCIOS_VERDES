@@ -2,13 +2,35 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: -20%
+    left: 20%
+    width: 85px
+    @media screen and (min-width: $bp-max-xl)
+      top: 5%
+      left: 20%
+      
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 50%
+    left: 10%
+    width: 85px
+    @media screen and (min-width: $bp-max-xl)
+      top: 50%
+      left: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 0
+    width: 85px
+
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 20%
+    width: 85px
 
 @keyframes float1
   0%
@@ -18,15 +40,51 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
-
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
-
+ 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
-
+ 
 .banner-interno__titulo__icono i
   color: $color-primario
-
+ 
 figcaption
   font-weight: normal
+ 
+.banner-principal__row .banner-principal__img
+  width: 400px !important
+  margin-top: auto
+  padding: 0 !important
+  @media screen and (min-width: $bp-max-xl)
+    padding-top: 100px !important
+    width: 500px !important
+ 
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+.banner-principal .tarjeta
+  @media screen and (max-width: $bp-max-md)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-tablet.png") !important
+  @media screen and (max-width: 767px)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-mobile.png") !important
+
+
+// .bg-color-secundario-s5
+//   background-color: $color-secundario-s5
+// .bg-color-acento-contenido-ac10
+//   background-color: $color-acento-contenido-ac10
+    
+.banner-text
+  border-radius: 12px
+  padding: 30px
+  margin-top: -40px
+
+@media (min-width: 992px)
+  .banner-text
+    margin-top: -60px
+
+.z-2
+  position: relative
+  z-index: 2
+
+.w-141
+  width: 141px
+  margin: 0 auto
