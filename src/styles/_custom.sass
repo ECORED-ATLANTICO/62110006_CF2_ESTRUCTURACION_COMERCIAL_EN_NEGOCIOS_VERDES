@@ -94,6 +94,14 @@ figcaption
   width: 81px
   margin: 0 auto
 
+.w-64
+  width: 64px
+  margin: 0 auto
+
+.w-96
+  width: 96px
+  margin: 0 auto
+
 .decorated-title
   width: fit-content
   padding: 7px 20px 8px 40px
@@ -129,6 +137,15 @@ figcaption
   &--purple
     background-image: url("../assets/curso/temas/tema1/bg-wave-purple.png")
 
+  &--gris
+    background-image: url("../assets/curso/temas/tema4/bg-gris.png")
+
+.bg-color-primario-p70
+  background-color: $color-primario-p70
+.bg-color-primario-p5
+  background-color: $color-primario-p5
+
+
 .height-available
   height: -webkit-fill-available
 
@@ -149,3 +166,48 @@ figcaption
     opacity: 0.4
     &.slyder-a__bullets__item--active
       opacity: 1
+
+.link-icon
+  font-size: 30px
+  padding: 4px 8px
+  display: flex
+  align-items: center
+  justify-content: center
+
+.link-text
+  max-width: 300px
+  color: #134336
+  background-color: #F2FBE4
+
+  &--large
+    max-width: 500px
+
+.crd_hover_txt 
+  position: relative
+  padding: 0
+  overflow: hidden
+  border-radius: 10px
+
+
+.crd_hover_txt:hover .crd_hover_txt--body 
+  transition: all .3s ease-in-out
+  transform: translateY(0)
+  background-color: $color-primario-p5
+  h4, p
+    color: $color-sistema-texto
+
+
+.crd_hover_txt .crd_hover_txt--body 
+  position: absolute
+  padding: 18px 13px 30px
+  bottom: 0
+  transition: all .3s ease-in-out
+  transform: translateY(calc(100% - 65px))
+  background-color: #83A454
+  h4, p
+    color: white
+
+@media (min-width: 1200px) and (max-width:1400px) 
+  .crd_hover_txt .crd_hover_txt--body p 
+      font-size: 14px
+      line-height: 18px
