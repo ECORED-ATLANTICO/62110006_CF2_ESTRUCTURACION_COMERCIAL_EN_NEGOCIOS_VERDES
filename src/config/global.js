@@ -40,7 +40,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Gestión de stocks verdes',
+        titulo: 'Gestión de <em>stocks</em> verde',
         desarrolloContenidos: true,
         subMenu: [
           {
