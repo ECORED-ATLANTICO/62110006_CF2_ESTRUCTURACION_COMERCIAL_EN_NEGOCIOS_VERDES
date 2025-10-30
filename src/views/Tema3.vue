@@ -32,11 +32,12 @@
 
     p.mb-5 La comunicación comercial sostenible se manifiesta en distintas formas según su enfoque. A continuación, se describen tres tipos principales: ambiental, social y ética, cada uno con objetivos específicos y ejemplos de aplicación.
 
-    h4(data-aos='zoom-in-right').mb-5
-      span.decorated-title Clases de comunicación comercial
 
     .row.justify-content-center.align-items-center
       .col-xl-10
+        h4(data-aos='zoom-in-right').mb-5
+          span.decorated-title Clases de comunicación comercial
+          
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
           .row.align-items-center.ps-5(titulo="Comunicación ambiental")
             .col-lg-8

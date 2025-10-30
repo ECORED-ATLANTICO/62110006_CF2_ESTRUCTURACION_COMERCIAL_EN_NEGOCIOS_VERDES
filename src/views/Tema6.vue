@@ -56,7 +56,7 @@
       .py-4.py-md-5(titulo="<strong><em>E-commerce</em></strong> responsable" :icono="require('@/assets/curso/temas/tema6/6.svg')")
         .row.align-items-center.justify-content-center
           .col-11.col-lg-7.mb-4.mb-md-0
-            h4 E-commerce responsable
+            h4 <em>E-commerce</em> responsable
             p.mb-4.mb-lg-0 Se trata de implementar buenas prácticas en el comercio electrónico para reducir el impacto ambiental. Esto puede incluir el uso de empaques reciclables o biodegradables, opciones de envío que compensen la huella de carbono (como transportes eléctricos o programas de reforestación), así como la promoción de un portafolio de productos sostenibles. El objetivo es ofrecer una experiencia de compra coherente con los valores ecológicos del consumidor moderno, contribuyendo a una cadena de valor más respetuosa con el medio ambiente. 
           .col-11.col-sm-8.col-md-6.col-lg-3
             figure

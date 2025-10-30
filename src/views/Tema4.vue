@@ -140,7 +140,7 @@
             h4.mb-4.text-center Pautas para papel y tintas
             p.text-center Preferencia por papel reciclado, ecológico o con certificaciones ambientales reconocidas como FSC (<em>Forest Stewardship Council</em>) o PEFC. Se promueve la impresión con tintas vegetales, a base de soya o agua, que son menos contaminantes y más seguras para el ambiente. Además, se establecen recomendaciones para imprimir solo lo necesario y fomentar el uso digital, reduciendo así el impacto ambiental de la comunicación institucional.
 
-    .row.justify-content-center.bg-waves.p-4
+    .row.justify-content-center.bg-waves.bg-waves--large.p-4
       .col-xl-10
         p.text-center Consultar el manual de identidad visual del Ministerio de Ambiente y Desarrollo Sostenible de Colombia, el cual establece los lineamientos para una imagen institucional coherente y sostenible. Este documento resulta especialmente útil para desarrollar estrategias de comunicación ambiental o alinear la marca con prácticas responsables:
         a.d-flex.justify-content-center.mb-4(href="https://www.minambiente.gov.co/wp-content/uploads/2024/07/MANUAL_IDENTIDAD_VISUAL_AMBIENTE.pdf " target="_blank" format="pdf")

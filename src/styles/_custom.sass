@@ -137,6 +137,9 @@ figcaption
   @media screen and (min-width: $bp-min-sm)
     background-position: left center
 
+  &--large
+    background-image: url("../assets/curso/temas/tema1/bg-wave-green-large.png")
+
   &--green
     background-image: url("../assets/curso/temas/tema6/bg-light-green.png")
 
@@ -169,10 +172,14 @@ figcaption
     background-color: $color-acento-botones
 
   .slyder-a__bullets__item
-    margin: 0 8px
+    margin: 0 5px
     background-color: $color-acento-botones
     border-color: $color-acento-botones
     opacity: 0.4
+
+    @media screen and (min-width: $bp-min-sm)
+      margin: 0 8px
+
     &.slyder-a__bullets__item--active
       opacity: 1
 
