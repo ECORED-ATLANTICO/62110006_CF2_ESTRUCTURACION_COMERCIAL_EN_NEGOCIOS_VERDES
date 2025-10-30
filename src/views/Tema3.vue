@@ -24,7 +24,7 @@
       .col-lg-9
         p La comunicación comercial sostenible es una estrategia de marketing que busca integrar valores medioambientales, sociales y éticos en todos los mensajes publicitarios o promocionales de una organización. Su propósito no se limita únicamente a aumentar las ventas, sino que también apunta a fomentar un consumo más responsable, educar al consumidor y construir una reputación basada en la responsabilidad social. Este tipo de comunicación responde a las exigencias de un mercado cada vez más consciente, donde los consumidores valoran las acciones coherentes con el respeto al medio ambiente, los derechos humanos y la justicia social.
         .cajon.color-acento-contenido.p-4
-          p.mb-0 La comunicación sostenible no solo beneficia al planeta y a la sociedad, sino que también fortalece el vínculo emocional con los clientes, construyendo una marca con propósito y mayor valor percibido. Se fundamenta en la transparencia, coherencia, y compromiso a largo plazo, evitando el "greenwashing" que es el uso engañoso de mensajes ecológicos.
+          p.mb-0 La comunicación sostenible no solo beneficia al planeta y a la sociedad, sino que también fortalece el vínculo emocional con los clientes, construyendo una marca con propósito y mayor valor percibido. Se fundamenta en la transparencia, coherencia, y compromiso a largo plazo, evitando el "<em>greenwashing</em>" que es el uso engañoso de mensajes ecológicos.
 
     Separador
     #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
@@ -161,8 +161,8 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/H891NO0WKdk" title="Plan de comunicación de producto sostenible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Plan de comunicación de producto sostenible
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/H891NO0WKdk" title="Plan de comunicación de producto sostenible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: plan de comunicación de producto sostenible
 
 </template>
 

@@ -192,7 +192,51 @@
     h4(data-aos='zoom-in-right').mb-5
       span.decorated-title Distribución presupuestal para una campaña promocional verde
 
-    //- TODO: Insertar
+    .row.justify-content-center.align-items-center.factores-slider.z-2.mb-5
+      .col-xl-8.mb-3.mb-lg-0
+        SlyderF(columnas="col-lg-6")
+          .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+            .row.justify-content-center.mb-3
+              .col-5
+                img.factores-slider__icon(src='@/assets/curso/temas/tema5/16.svg' alt='Ilustacion de acompañamiento')
+            .factores-slider__title-wrapper  
+              h4.factores-slider__title.mb-4 Producción de material ecológico
+            p.mb-4.mb-5.text-center Impresión en papel reciclado, tintas vegetales, empaques biodegradables, <em>merchandising</em> sostenible.
+
+          .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+            .row.justify-content-center.mb-3
+              .col-5
+                img.factores-slider__icon(src='@/assets/curso/temas/tema5/17.svg' alt='Ilustacion de acompañamiento')
+            .factores-slider__title-wrapper  
+              h4.factores-slider__title.mb-4 Medios digitales
+            p.mb-4.text-center Campañas en redes sociales, gestión de contenido, anuncios pagados en plataformas <em>eco-friendly</em>.
+
+          .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+            .row.justify-content-center.mb-3
+              .col-5
+                img.factores-slider__icon(src='@/assets/curso/temas/tema5/18.svg' alt='Ilustacion de acompañamiento')
+            .factores-slider__title-wrapper  
+              h4.factores-slider__title.mb-4 Eventos sostenibles
+            p.mb-4.text-center Alquiler de espacios ecológicos, logística sin residuos, transporte colectivo o eléctrico.
+
+          .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+            .row.justify-content-center.mb-3
+              .col-5
+                img.factores-slider__icon(src='@/assets/curso/temas/tema5/19.svg' alt='Ilustacion de acompañamiento')
+            .factores-slider__title-wrapper  
+              h4.factores-slider__title.mb-4 Honorarios profesionales
+            p.mb-4.text-center Diseño gráfico, redacción de contenidos, consultoría en sostenibilidad.
+
+          .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+            .row.justify-content-center.mb-3
+              .col-5
+                img.factores-slider__icon(src='@/assets/curso/temas/tema5/20.svg' alt='Ilustacion de acompañamiento')
+            .factores-slider__title-wrapper  
+              h4.factores-slider__title.mb-4 Evaluación de impacto
+            p.mb-4.text-center Encuestas, estudios de percepción, herramientas de análisis digital.
+      .d-none.d-xl-block.col-xl-4
+        figure
+          img(src='@/assets/curso/temas/tema5/21.png', alt='Imagen decorativa', data-aos="fade-up")
 
     p Es fundamental que el presupuesto esté alineado con los principios de sostenibilidad y que se optimicen los recursos para evitar el desperdicio y maximizar el impacto positivo.
 
