@@ -5,7 +5,72 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Canales de distribución verde
+
+    img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/1.png", alt="Imagen decorativa")
+
+    .row.justify-content-center
+      .col-lg-10(data-aos="fade-down")
+        div.banner-text.bg-white
+          p.mb-0 Los canales de distribución verde buscan mover productos de forma eficiente y con el menor impacto ambiental posible. Incorporan prácticas sostenibles como transporte limpio, empaques ecológicos y logística responsable. Ayudan a reducir la huella de carbono y mejoran la imagen de marca ante consumidores conscientes. Además, fortalecen cadenas de valor más justas, éticas y respetuosas con el entorno.
+
+    Separador
+    #t_2_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
+      h3 2.1 Concepto
+
+    .row.justify-content-center.align-items-center
+      .col-8.col-md-6.col-lg-3
+        img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema2/2.png", alt="Imagen decorativa", data-aos="fade-up")
+      .col-lg-9
+        p Los canales de distribución verde son sistemas logísticos que integran prácticas sostenibles en el proceso de traslado de productos, con el objetivo de minimizar el impacto ambiental. Esto incluye el uso de medios de transporte ecológicos (como vehículos eléctricos o bicicletas de reparto), rutas optimizadas para reducir emisiones, y materiales de empaque reciclables o biodegradables. Estas acciones permiten reducir la huella de carbono, el consumo energético y la generación de residuos.
+        .cajon.color-acento-contenido.p-4
+          p.mb-0 Además, estos canales fomentan alianzas con proveedores y distribuidores que comparten valores ambientales, promoviendo una red coherente con los principios de la economía circular. No solo se prioriza la eficiencia operativa, sino también la responsabilidad social y ambiental, lo que contribuye a una distribución más limpia, ética y alineada con los objetivos del desarrollo sostenible.
+
+    Separador
+    #t_2_2(data-aos='zoom-in-left').titulo-segundo.color-acento-contenido
+      h3 2.2 Clasificación
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-md-6.col-lg-3
+        img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema2/3.png", alt="Imagen decorativa", data-aos="fade-up")
+      .col-lg-9
+        p En el contexto de los negocios sostenibles, la selección del canal de distribución es un aspecto clave para asegurar la coherencia con los principios ambientales. Los canales verdes no solo deben garantizar la llegada del producto al consumidor, sino que también deben minimizar el impacto ambiental en cada etapa del proceso. Esta clasificación permite identificar diferentes estrategias que pueden adoptar las organizaciones para distribuir de manera responsable, eficiente y alineada con la sostenibilidad.
+        p A continuación, se describen los principales tipos de canales de distribución verdes, junto con sus características y ejemplos prácticos:
+
+    .row.justify-content-center
+      .col-xl-10
+        h4(data-aos='zoom-in-right').mb-5
+          span.decorated-title Tipos de canales de distribución verdes
+
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
+          .row.align-items-center.ps-5(titulo="Directos")
+            .col-lg-8
+              p El producto va del productor al consumidor final sin intermediarios. Esto permite un mayor control sobre las prácticas ambientales, la reducción de emisiones por transporte y la eliminación de embalajes innecesarios.
+              p.mb-0 <strong>Ejemplo.</strong>
+              p Venta online de productos orgánicos directamente desde la finca hasta el cliente, utilizando empaques biodegradables y transporte local.
+            .col-sm-8.col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/4.png', alt='Imagen de acompañamiento')
+
+          .row.align-items-center.ps-5(titulo="Indirectos")
+            .col-lg-8
+              p Involucran intermediarios (mayoristas, minoristas, distribuidores), pero estos deben operar bajo estándares sostenibles, como certificaciones verdes o prácticas responsables.
+              p.mb-0 <strong>Ejemplo.</strong>
+              p Distribuidores y tiendas que comercializan productos con sellos ecológicos, como supermercados que exigen criterios ambientales a sus proveedores.
+            .col-sm-8.col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/5.png', alt='Imagen de acompañamiento')
+                
+          .row.align-items-center.ps-5(titulo="Directos")
+            .col-lg-8
+              p Combinan los dos modelos anteriores, aprovechando las ventajas del canal directo (cercanía y control ambiental) y del canal indirecto (mayor alcance y cobertura de mercado).
+              p.mb-0 <strong>Ejemplo.</strong>
+              p Empresas que venden en tiendas físicas ecoeficientes y también a través de plataformas digitales sostenibles que promueven entregas neutras en carbono.
+            .col-sm-8.col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen de acompañamiento')
+
+
 
 </template>
 
