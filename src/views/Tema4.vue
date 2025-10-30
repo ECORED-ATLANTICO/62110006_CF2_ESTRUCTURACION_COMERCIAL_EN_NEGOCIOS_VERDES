@@ -113,7 +113,7 @@
       span.decorated-title Elementos del manual de identidad corporativa
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
-      .col-md-6.col-lg-5.col-xl-4.mb-4.mb-xl-0
+      .col-sm-7.col-lg-5.col-xl-4.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -122,7 +122,7 @@
             h4.mb-4.text-center Paleta de colores ecológicos
             p.text-center Uso predominante de tonos como verde oliva, azul cielo y marrón tierra en piezas gráficas, empaques, señalética institucional y medios digitales. Estos colores, además de evocar naturaleza y serenidad, ayudan a transmitir confianza y compromiso ambiental. Un ejemplo claro es su aplicación en los uniformes del personal, en banners promocionales y en plataformas web, donde se mantiene una coherencia visual que refuerza la identidad verde.
 
-      .col-md-6.col-lg-5.col-xl-4.mb-4.mb-xl-0
+      .col-sm-7.col-lg-5.col-xl-4.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -131,7 +131,7 @@
             h4.mb-4.text-center Tipografía sostenible
             p.text-center Elección de fuentes digitales diseñadas para reducir el consumo de tinta, como <em>Ryman Eco o Ecofont</em>, especialmente en documentos de impresión frecuente como informes, formularios o comunicados. Estas tipografías permiten mantener una apariencia profesional sin renunciar a la eficiencia en el uso de recursos. También se procura evitar el uso excesivo de negrillas y se favorecen fuentes sin serifas por su mayor legibilidad y menor saturación visual.
 
-      .col-md-6.col-lg-5.col-xl-4.mb-4.mb-xl-0
+      .col-sm-7.col-lg-5.col-xl-4.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure

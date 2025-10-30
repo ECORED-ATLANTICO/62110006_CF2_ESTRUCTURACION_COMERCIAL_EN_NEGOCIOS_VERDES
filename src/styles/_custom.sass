@@ -132,7 +132,13 @@ figcaption
   background-image: url("../assets/curso/temas/tema1/bg-wave-green.png")
   background-repeat: no-repeat
   background-size: cover
-  background-position: left center
+  background-position: center
+
+  @media screen and (min-width: $bp-min-sm)
+    background-position: left center
+
+  &--green
+    background-image: url("../assets/curso/temas/tema6/bg-light-green.png")
 
   &--purple
     background-image: url("../assets/curso/temas/tema1/bg-wave-purple.png")
@@ -144,6 +150,9 @@ figcaption
   background-color: $color-primario-p70
 .bg-color-primario-p5
   background-color: $color-primario-p5
+.bg-degradado-purple
+  background: #8C8FEC
+  background: linear-gradient(90deg,rgba(140, 143, 236, 1) 0%, rgba(242, 243, 252, 1) 100%)
 
 
 .height-available
@@ -173,6 +182,12 @@ figcaption
   display: flex
   align-items: center
   justify-content: center
+
+.links-image
+  position: absolute
+  width: 89px
+  left: 0
+  transform: translateX(-50%)
 
 .link-text
   max-width: 300px
@@ -211,3 +226,16 @@ figcaption
   .crd_hover_txt .crd_hover_txt--body p 
       font-size: 14px
       line-height: 18px
+
+.tabs-b
+  border-bottom: none
+  &__content-item
+    background-color: #F3F9FF
+    @media screen and (min-width: $bp-max-lg)
+      padding-top: 40px
+      padding-bottom: 40px
+
+  &__tab__icon
+    width: 85px
+    margin-bottom: 8px
+
