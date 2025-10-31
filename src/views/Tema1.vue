@@ -88,7 +88,7 @@
 
     p.mb-4 Al adoptar esta modalidad de gestión, se manifiestan varias características clave que la distinguen de la gestión convencional:
 
-    .row.align-items-stretch.justify-content-center
+    .row.align-items-stretch.justify-content-center.mb-5
       .col-lg-6.mb-4.height-available
         .p-4.bg-waves.ps-xl-5.h-100
           p.mb-0.ps-xl-5 Reducción de residuos: se minimizan los desperdicios al planificar con precisión y usar embalajes reutilizables o biodegradables, evitando materiales contaminantes como el plástico tradicional.
@@ -225,18 +225,141 @@
 
     p.mb-4 Para adoptar con éxito la gestión de stocks verde, es fundamental implementar ciertas técnicas y prácticas:
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-6.col-lg-3
+        figure
+          img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/18.png", alt="Icono decorativo", data-aos="fade-down")
+      .col-lg-9
+        p <strong>Análisis del ciclo de vida (ACV)</strong>: es una herramienta que permite evaluar el impacto ambiental de un producto durante todas sus etapas, desde la extracción de materias primas, su transformación, distribución, uso y disposición final. El objetivo es identificar puntos críticos donde se puede reducir la huella ambiental. 
+        p.mb-0 <strong>Ejemplo clave</strong>: una empresa productora de envases biodegradables realiza un ACV para comparar el impacto ambiental entre usar almidón de maíz o fibra de bambú como materia prima. Así determina cuál opción genera menos emisiones y residuos.
 
+    .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--green-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/20.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Elegir materiales con menor impacto ambiental.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--green-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/21.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Optimizar el proceso de producción.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--green-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/22.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Decidir si es mejor reciclar o compostar al final de la vida útil del producto.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9
+        p <strong>Inventario Just-in-Time (JIT) Verde</strong>: es una técnica de gestión que busca mantener niveles mínimos de inventario, abasteciendo los productos justo cuando se necesitan. En su versión verde, busca también reducir el desperdicio, consumo energético y espacio de almacenamiento.
+        p.mb-4.mb-lg-0 <strong>Ejemplo clave</strong>: una tienda ecológica se abastece semanalmente de frutas y verduras orgánicas, evitando sobreabastecimiento que podría generar pudrición y desperdicio. Solo pide lo necesario para la demanda real del cliente.
+      .col-sm-6.col-lg-3
+        figure
+          img(src="@/assets/curso/temas/tema1/23.png", alt="Icono decorativo", data-aos="fade-down")
+
+    .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/24.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Menor espacio físico para almacenamiento = menos consumo energético.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/25.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Evita obsolescencia de productos perecederos o tecnológicos.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/26.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Menos embalajes y transporte innecesario.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-6.col-lg-3
+        figure
+          img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/27.png", alt="Icono decorativo", data-aos="fade-down")
+      .col-lg-9
+        p <strong>Logística inversa</strong>: son todas las actividades relacionadas con la recolección de productos usados o sus residuos para ser reutilizados, reciclados o eliminados de forma segura. Es clave para una economía circular.
+        p.mb-0 <strong>Ejemplo clave</strong>: Una empresa de electrodomésticos instala puntos de recolección donde los clientes pueden dejar sus equipos viejos. Estos se envían a plantas donde se extraen componentes útiles o se reciclan adecuadamente.
+
+    .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--green-small.h-100
+          .col-3.py-3
+            figure
+              img.w-56(src="@/assets/curso/temas/tema1/28.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Recolección de empaques para reúso o reciclaje
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--green-small.h-100
+          .col-3.py-3
+            figure
+              img.w-56(src="@/assets/curso/temas/tema1/29.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Devolución de productos defectuosos o vencidos.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--green-small.h-100
+          .col-3.py-3
+            figure
+              img.w-56(src="@/assets/curso/temas/tema1/30.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Sistemas de devolución de envases retornables.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9
+        p <strong>Capacitación Ambiental</strong>: consiste en formar al personal y proveedores en prácticas sostenibles relacionadas con la manipulación, almacenamiento y transporte de productos, fomentando la cultura ecológica en toda la organización.
+        p.mb-4.mb-lg-0 <strong>Ejemplo clave</strong>: una empresa capacita a sus operarios en cómo almacenar productos químicos sin riesgo de fugas ni contaminación, utilizando señalización adecuada y equipos seguros.
+
+      .col-sm-6.col-lg-3
+        figure
+          img(src="@/assets/curso/temas/tema1/31.png", alt="Icono decorativo", data-aos="fade-down")
+
+    .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/32.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Capacitación en separación de residuos y uso eficiente de recursos.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/33.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Promoción de conductas sostenibles en el trabajo diario.
+      .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
+        .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
+          .col-3.py-3
+            figure
+              img.w-64(src="@/assets/curso/temas/tema1/34.svg", alt="Icono decorativo", data-aos="fade-down")
+          .col-9.py-3
+            p.mb-0 Manuales y protocolos verdes de almacenamiento y logística.
 
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 Estas prácticas no solo ayudan a proteger el medio ambiente, sino que también mejoran la eficiencia operativa, reducen costos y fortalecen la reputación sostenible de las empresas. Adoptarlas es una estrategia inteligente y responsable.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
-      .col-lg-10.col-xl-8
+      .col-auto
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
           span Técnicas en la gestión de <em>stocks</em> verdes
-        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/16-mob.svg', alt='En la imagen se muestra ejemplo de aplicabilidad de Blockchain para la gestión del agua: 1. Disponibilidad y calidad del agua: seguimiento en tiempo real. 2. Trazabilidad del comercio del agua: transparencia en toda la cadena (reciclaje, venta, entrega, uso). 3. Sistemas de pago y recompensa: incentivos por ahorro o uso eficiente. 4. Seguimiento y verificación: certificación del uso sostenible del agua.')
-        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/16.svg', alt='En la imagen se muestra ejemplo de aplicabilidad de Blockchain para la gestión del agua: 1. Disponibilidad y calidad del agua: seguimiento en tiempo real. 2. Trazabilidad del comercio del agua: transparencia en toda la cadena (reciclaje, venta, entrega, uso). 3. Sistemas de pago y recompensa: incentivos por ahorro o uso eficiente. 4. Seguimiento y verificación: certificación del uso sostenible del agua.')
+        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/35-mob.svg', alt='En la imagen se muestra ejemplo de aplicabilidad de Blockchain para la gestión del agua: 1. Disponibilidad y calidad del agua: seguimiento en tiempo real. 2. Trazabilidad del comercio del agua: transparencia en toda la cadena (reciclaje, venta, entrega, uso). 3. Sistemas de pago y recompensa: incentivos por ahorro o uso eficiente. 4. Seguimiento y verificación: certificación del uso sostenible del agua.')
+        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/35.svg', alt='En la imagen se muestra ejemplo de aplicabilidad de Blockchain para la gestión del agua: 1. Disponibilidad y calidad del agua: seguimiento en tiempo real. 2. Trazabilidad del comercio del agua: transparencia en toda la cadena (reciclaje, venta, entrega, uso). 3. Sistemas de pago y recompensa: incentivos por ahorro o uso eficiente. 4. Seguimiento y verificación: certificación del uso sostenible del agua.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
 </template>
