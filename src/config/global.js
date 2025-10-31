@@ -274,24 +274,217 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Canales de distribución verde',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). <em>Canales de distribución y comercialización según la tecnología para la venta</em> [Video]. YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=YzMfN8fHlP8',
+    },
+    {
+      tema: 'Comunicación comercial sostenible',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Plan de comunicación de producto sostenible</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=H891NO0WKdk',
+    },
+    {
+      tema: '<em>Marketing</em> verde',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021).<em>¿Qué es mercadeo verde (Green Marketing)? Ejemplos de mercadeo verde en el mundo</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=PbdVwChb71Q',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'ACV (Análisis de Ciclo de Vida)',
+      significado:
+        'Herramienta que evalúa el impacto ambiental de un producto a lo largo de todas sus etapas: producción, distribución, uso y disposición final.',
+    },
+    {
+      termino: 'Alianzas logísticas',
+      significado:
+        'Cooperación entre empresas que comparten recursos y estrategias sostenibles para la distribución y logística de productos.',
+    },
+    {
+      termino: '<em>Blockchain</em>',
+      significado:
+        'Tecnología de registro digital que permite garantizar la trazabilidad y transparencia en la cadena de suministro.',
+    },
+    {
+      termino: 'Campaña promocional verde',
+      significado:
+        'Estrategia de comunicación que promueve productos o iniciativas sostenibles, con objetivos comerciales y de concienciación ambiental o social.',
+    },
+    {
+      termino: 'Canal de distribución verde',
+      significado:
+        'Ruta de entrega de productos al cliente final que minimiza el impacto ambiental mediante transporte ecológico y prácticas sostenibles.',
+    },
+    {
+      termino: 'Capacitación ambiental',
+      significado:
+        'Formación del personal en prácticas ecológicas para mejorar el manejo de productos y procesos logísticos.',
+    },
+    {
+      termino: 'Certificación ambiental',
+      significado:
+        'Reconocimiento oficial que garantiza que una empresa cumple con estándares sostenibles (por ejemplo, ISO 14001, FSC).',
+    },
+    {
+      termino: 'Comunicación comercial sostenible',
+      significado:
+        'Estrategia que integra valores éticos, sociales y ambientales en los mensajes publicitarios y promocionales de una empresa.',
+    },
+    {
+      termino: 'Distribución sostenible',
+      significado:
+        'Proceso logístico que considera la eficiencia energética, reducción de emisiones y responsabilidad ambiental en el transporte de productos.',
+    },
+    {
+      termino: '<em>E-commerce</em> responsable',
+      significado:
+        'Comercio en línea que minimiza el impacto ambiental mediante envíos verdes, empaques sostenibles y prácticas éticas.',
+    },
+    {
+      termino: 'Embalaje biodegradable',
+      significado:
+        'Material de empaque que se descompone naturalmente sin generar residuos contaminantes.',
+    },
+    {
+      termino: 'Etiquetado ecológico',
+      significado:
+        'Sello o certificado que indica que un producto cumple con criterios de sostenibilidad y respeto ambiental.',
+    },
+    {
+      termino: 'Gestión de stock verde',
+      significado:
+        'Administración de inventarios que incorpora criterios ecológicos para reducir el impacto ambiental del almacenamiento y distribución.',
+    },
+    {
+      termino: 'Greenwashing',
+      significado:
+        'Práctica engañosa en la que una empresa finge ser ecológica mediante publicidad sin acciones reales de sostenibilidad.',
+    },
+    {
+      termino: 'Huella de carbono',
+      significado:
+        'Medida de la cantidad total de gases de efecto invernadero emitidos directa o indirectamente por una actividad o producto.',
+    },
+    {
+      termino: 'Identidad corporativa verde',
+      significado:
+        'Conjunto de elementos visuales y estratégicos que reflejan el compromiso ambiental de una empresa.',
+    },
+    {
+      termino: 'IoT ambiental',
+      significado:
+        'Sensores conectados que miden y controlan variables ambientales en tiempo real, mejorando el manejo sostenible de los inventarios.',
+    },
+    {
+      termino: '<em>Just-in-Time</em> Verde',
+      significado:
+        'Técnica de inventario que abastece productos solo cuando son necesarios, reduciendo almacenamiento y desperdicio.',
+    },
+    {
+      termino: 'Logística inversa',
+      significado:
+        'Proceso de recolección de productos usados o empaques para su reciclaje, reutilización o eliminación responsable.',
+    },
+    {
+      termino: 'Marketing digital verde',
+      significado:
+        'Uso de herramientas digitales para promocionar productos sostenibles, reduciendo el impacto ambiental de la publicidad.',
+    },
+    {
+      termino: 'Merchandising ecológico',
+      significado:
+        'Material promocional fabricado con criterios de sostenibilidad, como semilleros o artículos reutilizables.',
+    },
+    {
+      termino: 'Plataforma digital',
+      significado:
+        'Herramientas en línea que permiten gestionar campañas sostenibles, monitorear impactos y optimizar recursos.',
+    },
+    {
+      termino: 'SEO verde',
+      significado:
+        'Optimización de sitios web con criterios sostenibles para mejorar su posicionamiento y reducir su huella ecológica.',
+    },
+    {
+      termino: 'Software ERP verde',
+      significado:
+        'Sistemas de gestión empresarial con indicadores ambientales para una operación más sostenible.',
+    },
+    {
+      termino: 'Tipografía sostenible',
+      significado:
+        'Fuentes digitales diseñadas para reducir el consumo de tinta, utilizadas en impresiones ecológicas.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Bigné, E., Chumpitaz, R., & Currás, R. (2012). <em>Identidad y responsabilidad corporativa</em>. Madrid: ESIC Editorial.',
       link: '',
     },
+    {
+      referencia:
+        'Echavarría, J. (2012). <em>Gerencia de ventas</em> (1.ª ed.). México: McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Escobar Cabrera, J. C., & Gómez Racines, L. (Eds.). (2021). <em>Marketing verde, responsabilidad social y composición empresarial</em>. Universidad Santiago de Cali.',
+      link:
+        'https://libros.usc.edu.co/index.php/usc/catalog/download/323/455/6518?inline=1',
+    },
+    {
+      referencia:
+        'Fundación de Estudios Superiores de Cúcuta (FESC). (2008). <em>Gestión logística</em>.',
+      link:
+        'https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf',
+    },
+    {
+      referencia:
+        'González, R. (2021). <em>Comunicación comercial sostenible</em>. Editorial Ecoempresa.',
+      link: '',
+    },
+    {
+      referencia:
+        'Martínez, L., & Torres, C. (2023). <em>Marketing digital verde: Estrategias y herramientas</em>. GreenTech Press.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2024). <em>Manual de identidad visual</em>.',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2024/07/MANUAL_IDENTIDAD_VISUAL_AMBIENTE.pdf',
+    },
+    {
+      referencia:
+        'Muñoz, S. (2025, 10 de febrero). <em>Green marketing: cómo crear campañas sostenibles e impactantes</em>. OBS Business School.',
+      link:
+        'https://www.obsbusiness.school/blog/green-marketing-como-crear-campanas-sostenibles-e-impactantes',
+    },
+    {
+      referencia:
+        'Peña, J., & Londoño, S. (2022). <em>Logística verde y canales sostenibles</em>. Universidad Ecológica.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodríguez, M., & Jiménez, D. (2020). <em>Gestión de inventarios y sostenibilidad</em>. Editorial Logística Verde.',
+      link: '',
+    },
+    {
+      referencia:
+        'SPARX Logistics. (2024, 25 de septiembre). <em>Logística sostenible: Estrategias para empresas de todos los tamaños</em>.',
+      link:
+        'https://www.sparxlogistics.com/es/post/logistica-sostenible-estrategias-empresas',
+    },
   ],
+
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
