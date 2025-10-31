@@ -233,6 +233,8 @@
         p <strong>Análisis del ciclo de vida (ACV)</strong>: es una herramienta que permite evaluar el impacto ambiental de un producto durante todas sus etapas, desde la extracción de materias primas, su transformación, distribución, uso y disposición final. El objetivo es identificar puntos críticos donde se puede reducir la huella ambiental. 
         p.mb-0 <strong>Ejemplo clave</strong>: una empresa productora de envases biodegradables realiza un ACV para comparar el impacto ambiental entre usar almidón de maíz o fibra de bambú como materia prima. Así determina cuál opción genera menos emisiones y residuos.
 
+    p.mb-2 Aplicación práctica: 
+
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
       .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
         .row.align-items-center.bg-waves.bg-waves--green-small.h-100
@@ -264,6 +266,8 @@
         figure
           img(src="@/assets/curso/temas/tema1/23.png", alt="Icono decorativo", data-aos="fade-down")
 
+    p.mb-2 Aplicación práctica: 
+
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
       .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3
         .row.align-items-center.bg-waves.bg-waves--purple-small.h-100
@@ -294,6 +298,8 @@
       .col-lg-9
         p <strong>Logística inversa</strong>: son todas las actividades relacionadas con la recolección de productos usados o sus residuos para ser reutilizados, reciclados o eliminados de forma segura. Es clave para una economía circular.
         p.mb-0 <strong>Ejemplo clave</strong>: Una empresa de electrodomésticos instala puntos de recolección donde los clientes pueden dejar sus equipos viejos. Estos se envían a plantas donde se extraen componentes útiles o se reciclan adecuadamente.
+
+    p.mb-2 Aplicación práctica: 
 
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
       .col-sm-8.col-md-6.col-xl-4.overflow-hidden.p-3

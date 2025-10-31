@@ -154,10 +154,37 @@
     #t_2_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
       h3 2.5 Estructura
 
-    p.mb-4 Una estructura de logística verde debe estar diseñada para minimizar el impacto ambiental en cada eslabón de la cadena de suministro. Para ello, es clave articular una red colaborativa, centros de distribución ecoeficientes y herramientas tecnológicas que optimicen los recursos y reduzcan emisiones.
+    p.mb-5 Una estructura de logística verde debe estar diseñada para minimizar el impacto ambiental en cada eslabón de la cadena de suministro. Para ello, es clave articular una red colaborativa, centros de distribución ecoeficientes y herramientas tecnológicas que optimicen los recursos y reduzcan emisiones.
 
-    //- TODO: Insertar tabla
+    .row.justify-content-center.align-items-center.z-2
+      .col-xl-10         
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+          h5 Tabla 1.
+          span Estructura de logística verde
+        .tabla-a.color-primario.mb-5(data-aos="zoom-in-right")
+          table
+            caption 
+              p <b>Fuente:</b> Adaptada de Peña & Londoño, 2022.
+            thead
+              tr
+                th.col-3(style="background-color: #F2FBE4") Elemento
+                th.col-4(style="background-color: #F2FBE4") Descripción
+                th.col-5(style="background-color: #F2FBE4") Ejemplo
+            tbody
+              tr
+                td Red colaborativa
+                td Integración de todos los actores logísticos con compromiso ambiental: productores, proveedores, transportistas y distribuidores.
+                td Una red de empresas agrícolas que comparten transporte de productos orgánicos para reducir emisiones.
+              tr
+                td Centros de distribución verdes
+                td Infraestructura con diseño sostenible, uso eficiente de recursos, reciclaje y tecnologías limpias.
+                td Un almacén que usa paneles solares, sistema de recolección de agua lluvia y clasificación de residuos.
+              tr
+                td Plataformas digitales
+                td Sistemas tecnológicos para planificar rutas, gestionar inventarios y evitar desplazamientos innecesarios.
+                td Aplicación móvil que agrupa entregas por zona geográfica para reducir recorridos.
 
+    .fullwidth-bg.fullwidth-bg--1
     Separador
     #t_2_6(data-aos='zoom-in-left').titulo-segundo.color-acento-contenido
       h3 2.6 Métodos de selección
