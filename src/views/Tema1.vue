@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Gestión de <em>stocks</em> verde
+      h1 Gestión de <em>stock</em> verde
 
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema1/1.png", alt="Imagen decorativa")
 
     .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
         div.banner-text.bg-white
-          p.mb-0 La gestión de stocks verde optimiza inventarios reduciendo desperdicios y uso excesivo de recursos. Es clave para un modelo de negocio eficiente, responsable y alineado con la sostenibilidad. Favorece el ahorro de costos, mejora la trazabilidad y fortalece la imagen ambiental de la empresa. Además, responde a las exigencias de consumidores y mercados cada vez más conscientes.
+          p.mb-0 La gestión de <em>stock</em> verde optimiza inventarios reduciendo desperdicios y uso excesivo de recursos. Es clave para un modelo de negocio eficiente, responsable y alineado con la sostenibilidad. Favorece el ahorro de costos, mejora la trazabilidad y fortalece la imagen ambiental de la empresa. Además, responde a las exigencias de consumidores y mercados cada vez más conscientes.
 
     Separador
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
@@ -22,9 +22,9 @@
       .col-8.col-md-6.col-lg-3
         img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/2.png", alt="Imagen decorativa", data-aos="fade-up")
       .col-lg-9
-        p La gestión de stocks verde es una práctica avanzada dentro de la administración de inventarios que integra principios de sostenibilidad ambiental en todas las etapas del proceso. Más allá de la simple administración de cantidades y costos, este enfoque se centra en reducir el impacto ecológico generado por el almacenamiento y manejo de productos. Esto implica planificar y controlar los inventarios no solo para garantizar la disponibilidad oportuna, sino también para optimizar el uso de recursos naturales, disminuir residuos y contribuir a la economía circular (Rodríguez & Jiménez, 2020).
+        p La gestión de <em>stock</em> verde es una práctica avanzada dentro de la administración de inventarios que integra principios de sostenibilidad ambiental en todas las etapas del proceso. Más allá de la simple administración de cantidades y costos, este enfoque se centra en reducir el impacto ecológico generado por el almacenamiento y manejo de productos. Esto implica planificar y controlar los inventarios no solo para garantizar la disponibilidad oportuna, sino también para optimizar el uso de recursos naturales, disminuir residuos y contribuir a la economía circular (Rodríguez & Jiménez, 2020).
         .cajon.color-acento-contenido.p-4
-          p.mb-0 En esencia, la gestión de stocks verde busca un equilibrio entre eficiencia económica y responsabilidad ambiental, transformando la cadena de suministro en una operación más consciente con el entorno. Por ejemplo, una empresa que decide almacenar solo productos biodegradables y utiliza materiales de embalaje reciclables está aplicando esta gestión para reducir su huella ambiental y promover prácticas eco amigables.
+          p.mb-0 En esencia, la gestión de <em>stock</em> verde busca un equilibrio entre eficiencia económica y responsabilidad ambiental, transformando la cadena de suministro en una operación más consciente con el entorno. Por ejemplo, una empresa que decide almacenar solo productos biodegradables y utiliza materiales de embalaje reciclables está aplicando esta gestión para reducir su huella ambiental y promover prácticas eco amigables.
 
     .row.justify-content-center.align-items-center
       .col-lg-1.d-none.d-lg-block
@@ -37,7 +37,7 @@
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
       h3 1.2 Tipos
     
-    p.mb-5 La gestión ambiental de inventarios contempla varios tipos de stock, esta clasificación ayuda a estructurar una gestión responsable que contemple tanto la demanda del mercado como la protección del medio ambiente, objetivos específicos que garantizan la sostenibilidad y la operatividad eficiente:
+    p.mb-5 La gestión ambiental de inventarios contempla varios tipos de <em>stock</em>, esta clasificación ayuda a estructurar una gestión responsable que contemple tanto la demanda del mercado como la protección del medio ambiente, objetivos específicos que garantizan la sostenibilidad y la operatividad eficiente:
 
     .row.justify-content-center
       .col-xl-10
@@ -47,7 +47,7 @@
               .col-md-8
                 h4.mb-4 <em>Stock</em> de ciclo
                 p Reserva que permite afrontar variaciones inesperadas en la demanda o retrasos en entregas.
-                p.mb-0.mb-xl-3 Ejemplo práctico: mantener un stock de semillas certificadas orgánicas para garantizar si hay demoras en el suministro.
+                p.mb-0.mb-xl-3 Ejemplo práctico: mantener un <em>stock</em> de semillas certificadas orgánicas para garantizar si hay demoras en el suministro.
               .col-6.col-md-3
                 figure
                   img(src='@/assets/curso/temas/tema1/4.svg', alt='Imagen ilustrativa', data-aos="fade-up")
@@ -57,7 +57,7 @@
               .col-md-8
                 h4.mb-4 <em>Stock</em> de seguridad
                 p Reserva que permite afrontar variaciones inesperadas en la demanda o retrasos en entregas. 
-                p.mb-0.mb-xl-3 Ejemplo práctico: mantener un stock de semillas certificadas orgánicas para garantizar si hay demoras en el suministro.
+                p.mb-0.mb-xl-3 Ejemplo práctico: mantener un <em>stock</em> de semillas certificadas orgánicas para garantizar si hay demoras en el suministro.
               .col-6.col-md-3
                 figure
                   img(src='@/assets/curso/temas/tema1/5.svg', alt='Imagen ilustrativa', data-aos="fade-up")
@@ -106,7 +106,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span Características de la gestión de <em>stock</em> verde.
+          span Características de la gestión de <em>stock</em> verde
         img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/8-mob.svg', alt='En la imagen se describen las características de la gestión de stocks verde: Minimiza residuos con embalajes sostenibles. Controla origen y destino para asegurar sostenibilidad. Elige proveedores responsables ambientalmente. Mantiene inventarios justos para evitar desperdicios.')
         img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/8.svg', alt='En la imagen se describen las características de la gestión de stocks verde: Minimiza residuos con embalajes sostenibles. Controla origen y destino para asegurar sostenibilidad. Elige proveedores responsables ambientalmente. Mantiene inventarios justos para evitar desperdicios.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
@@ -131,8 +131,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Elementos RFID
-        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/10-mob.png', alt='En la imagen se describe los elementos del sistema completo de RFID: una etiqueta, un lector y un software de conectividad')
-        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/10.png', alt='En la imagen se describe los elementos del sistema completo de RFID: una etiqueta, un lector y un software de conectividad')
+        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/10-mob.png', alt='En la imagen se describe los elementos del sistema completo de RFID: una etiqueta, un lector y un software de conectividad (Middleware RFID).')
+        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/10.png', alt='En la imagen se describe los elementos del sistema completo de RFID: una etiqueta, un lector y un software de conectividad (Middleware RFID).')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center
@@ -149,7 +149,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Áreas empresariales intervenidas por <em>software</em> ERP
-        img.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/12.svg', alt='La imagen destaca las áreas empresariales intervenidas por software ERP:, Integración de procesos, Gestión financiera, Gestión de recursos humanos, Gestión de Ventas y Clientes, Planificación de producción, Control de Calidad, Informes y análisis, Cumplimiento y seguridad')
+        img.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/12.svg', alt='La imagen destaca las áreas empresariales intervenidas por software ERP: - Integración de procesos. - Gestión financiera. - Gestión de recursos humanos. - Gestión de ventas y clientes. - Planificación de producción. - Control de calidad. - Informes y análisis. - Cumplimiento y seguridad.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center
@@ -174,7 +174,7 @@
       .col-xl-10.bg-waves.bg-waves--green.p-4.py-5.mb-5
         .row.justify-content-end.align-items-center
           .col-sm-10.col-lg-8
-            p.mb-0 <em>Blockchain</em> para trazabilidad: Ofrece un registro seguro e inmutable de toda la cadena de suministro, garantizando que los productos provienen de fuentes responsables y cumplen con los estándares ecológicos.
+            p.mb-0 <em>Blockchain</em> para trazabilidad: ofrece un registro seguro e inmutable de toda la cadena de suministro, garantizando que los productos provienen de fuentes responsables y cumplen con los estándares ecológicos.
           .col-lg-2
             figure
               img.w-81.d-none.d-lg-block(src='@/assets/curso/temas/tema1/15.svg', alt='Icono decorativo', data-aos="fade-up")
@@ -204,17 +204,17 @@
 
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
-          .row.justify-content-center.ps-5(titulo="Comunicación ambiental")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Comunicación ambiental")
             .col-lg-12
               p Elegir ubicaciones que permitan recorridos cortos y directos reduce el uso de combustibles, emisiones contaminantes, tiempos y costos de transporte.
               p Ejemplo práctico: almacén ubicado cerca de zonas urbanas clave para acortar los trayectos de reparto.
 
-          .row.justify-content-center.ps-5(titulo="Cercanía con aliados sostenibles")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Cercanía con aliados sostenibles")
             .col-lg-12
               p Situar almacenes próximos a proveedores ecológicos mejora la eficiencia de la cadena y promueve prácticas responsables.
               p Ejemplo práctico: establecerse cerca de productores de envases biodegradables o reutilizables.
 
-          .row.justify-content-center.ps-5(titulo="Infraestructura con energías limpias")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Infraestructura con energías limpias")
             .col-lg-12
               p Implementar energías renovables y tecnologías de bajo consumo disminuye el impacto ambiental de las operaciones logísticas.
               p Ejemplo práctico: uso de paneles solares e iluminación LED en centros de distribución para reducir la huella energética.
@@ -223,7 +223,7 @@
     #t_1_6(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
       h3 1.6 Técnicas de implementación
 
-    p.mb-4 Para adoptar con éxito la gestión de stocks verde, es fundamental implementar ciertas técnicas y prácticas:
+    p.mb-4 Para adoptar con éxito la gestión de <em>stock</em> verde, es fundamental implementar ciertas técnicas y prácticas:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-6.col-lg-3
@@ -260,7 +260,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p <strong>Inventario Just-in-Time (JIT) Verde</strong>: es una técnica de gestión que busca mantener niveles mínimos de inventario, abasteciendo los productos justo cuando se necesitan. En su versión verde, busca también reducir el desperdicio, consumo energético y espacio de almacenamiento.
+        p <strong>Inventario <em>Just-in-Time</em> (JIT) Verde</strong>: es una técnica de gestión que busca mantener niveles mínimos de inventario, abasteciendo los productos justo cuando se necesitan. En su versión verde, busca también reducir el desperdicio, consumo energético y espacio de almacenamiento.
         p.mb-4.mb-lg-0 <strong>Ejemplo clave</strong>: una tienda ecológica se abastece semanalmente de frutas y verduras orgánicas, evitando sobreabastecimiento que podría generar pudrición y desperdicio. Solo pide lo necesario para la demanda real del cliente.
       .col-sm-6.col-lg-3
         figure
@@ -297,7 +297,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/27.png", alt="Icono decorativo", data-aos="fade-down")
       .col-lg-9
         p <strong>Logística inversa</strong>: son todas las actividades relacionadas con la recolección de productos usados o sus residuos para ser reutilizados, reciclados o eliminados de forma segura. Es clave para una economía circular.
-        p.mb-0 <strong>Ejemplo clave</strong>: Una empresa de electrodomésticos instala puntos de recolección donde los clientes pueden dejar sus equipos viejos. Estos se envían a plantas donde se extraen componentes útiles o se reciclan adecuadamente.
+        p.mb-0 <strong>Ejemplo clave</strong>: una empresa de electrodomésticos instala puntos de recolección donde los clientes pueden dejar sus equipos viejos. Estos se envían a plantas donde se extraen componentes útiles o se reciclan adecuadamente.
 
     p.mb-2 Aplicación práctica: 
 
@@ -363,9 +363,9 @@
       .col-auto
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
-          span Técnicas en la gestión de <em>stocks</em> verdes
-        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/35-mob.svg', alt='En la imagen se muestra ejemplo de aplicabilidad de Blockchain para la gestión del agua: 1. Disponibilidad y calidad del agua: seguimiento en tiempo real. 2. Trazabilidad del comercio del agua: transparencia en toda la cadena (reciclaje, venta, entrega, uso). 3. Sistemas de pago y recompensa: incentivos por ahorro o uso eficiente. 4. Seguimiento y verificación: certificación del uso sostenible del agua.')
-        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/35.svg', alt='En la imagen se muestra ejemplo de aplicabilidad de Blockchain para la gestión del agua: 1. Disponibilidad y calidad del agua: seguimiento en tiempo real. 2. Trazabilidad del comercio del agua: transparencia en toda la cadena (reciclaje, venta, entrega, uso). 3. Sistemas de pago y recompensa: incentivos por ahorro o uso eficiente. 4. Seguimiento y verificación: certificación del uso sostenible del agua.')
+          span Técnicas en la gestión de <em>stock</em> verdes
+        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/35-mob.svg', alt='En la imagen se establecen las técnicas clave gestión de stock verde: 1. Análisis del ciclo de vida (ACV) Evalúa impacto del producto desde origen hasta eliminación. Optimiza materiales y procesos. 2. Inventario Just-in-Time verde (JIT) Abastecimiento justo a tiempo según demanda real. Minimiza residuos y sobrealmacenamiento. 3. Logística inversa Recupera productos usados o residuos. Fomenta reciclaje y reutilización. 4. Capacitación ambiental Formación continua en prácticas sostenibles. Promueve cultura eco en operaciones.')
+        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/35.svg', alt='En la imagen se establecen las técnicas clave gestión de stock verde: 1. Análisis del ciclo de vida (ACV) Evalúa impacto del producto desde origen hasta eliminación. Optimiza materiales y procesos. 2. Inventario Just-in-Time verde (JIT) Abastecimiento justo a tiempo según demanda real. Minimiza residuos y sobrealmacenamiento. 3. Logística inversa Recupera productos usados o residuos. Fomenta reciclaje y reutilización. 4. Capacitación ambiental Formación continua en prácticas sostenibles. Promueve cultura eco en operaciones.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
 </template>

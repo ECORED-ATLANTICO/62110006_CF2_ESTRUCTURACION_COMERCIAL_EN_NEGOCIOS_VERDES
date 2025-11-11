@@ -23,7 +23,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-10
-              p.mb-4.mb-lg-0 La identidad corporativa verde representa la expresión integral —visual, verbal y comportamental— de una organización alineada con los principios de sostenibilidad ambiental y responsabilidad social. Más que una tendencia, se trata de una filosofía que impregna la cultura empresarial y se proyecta hacia sus públicos. Este enfoque busca que cada manifestación de la marca transmita valores como el respeto por el entorno, la ética y el compromiso con las generaciones futuras (Bigné et al., 2012).
+              p.mb-4.mb-lg-0 La identidad corporativa verde representa la expresión integral — visual, verbal y comportamental — de una organización alineada con los principios de sostenibilidad ambiental y responsabilidad social. Más que una tendencia, se trata de una filosofía que impregna la cultura empresarial y se proyecta hacia sus públicos. Este enfoque busca que cada manifestación de la marca transmita valores como el respeto por el entorno, la ética y el compromiso con las generaciones futuras (Bigné et al., 2012).
             .col-lg-2.d-none.d-lg-block
               figure
                 img.w-64(src="@/assets/curso/temas/tema4/2.svg", alt="Imagen decorativa", data-aos="fade-left")
@@ -82,7 +82,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6.mb-5.mb-lg-0
-              p.mb-4 Implementación de comportamientos sostenibles en cada punto de contacto con el cliente, desde el empaque hasta el servicio postventa. Un ejemplo es Apple, que ha reducido progresivamente el uso de plástico en sus empaques, incorporando materiales reciclados y promoviendo programas de devolución de dispositivos. Aunque su enfoque ha sido discutido, representa un caso relevante de cómo una marca global puede integrar la sostenibilidad en sus procesos de atención y fidelización.
+              p.mb-4 Implementación de comportamientos sostenibles en cada punto de contacto con el cliente, desde el empaque hasta el servicio posventa. Un ejemplo es Apple, que ha reducido progresivamente el uso de plástico en sus empaques, incorporando materiales reciclados y promoviendo programas de devolución de dispositivos. Aunque su enfoque ha sido discutido, representa un caso relevante de cómo una marca global puede integrar la sostenibilidad en sus procesos de atención y fidelización.
               a.d-flex.justify-content-center.justify-content-lg-start.mb-4(href="www.apple.com" target="_blank")
                 .bg-color-primario-p70.text-white.link-icon
                   i.fa-solid.fa-link
@@ -97,7 +97,7 @@
       .col-xl-10.bg-waves.bg-waves--gris
         .p-4
           .row.align-items-center.justify-content-end
-            .col-8.col-sm-10.col-lg-9
+            .col-sm-10.col-lg-9
               p.mb-0 Estos ejemplos muestran que una identidad corporativa verde no se limita al diseño visual, sino que implica una coherencia real entre lo que la empresa comunica, lo que hace y cómo lo hace.
             .col-lg-2.d-none.d-lg-block
               figure

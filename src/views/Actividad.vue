@@ -304,7 +304,7 @@ export default {
         {
           id: 13,
           texto:
-            'El marketing digital verde incluye estrategias como el SEO verde y el e-commerce responsable.',
+            'El <em>marketing</em> digital verde incluye estrategias como el SEO verde y el e-commerce responsable.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Distribución y campañas sostenibles',
+    Name: 'Distribución y promoción sostenible',
     Description:
-      'El componente formativo Distribución y promoción promueve prácticas comerciales sostenibles mediante la gestión eficiente de stocks verdes, distribución ecoamigable, comunicación responsable y <em>marketing</em> digital verde. Fortalece competencias para implementar estrategias respetuosas con el medio ambiente, generando valor en negocios conscientes y competitivos.',
+      'El componente formativo Distribución y promoción sostenible promueve prácticas comerciales sostenibles mediante la gestión eficiente de <em>stocks</em> verdes, distribución ecoamigable, comunicación responsable y <em>marketing</em> digital verde. Fortalece competencias para implementar estrategias respetuosas con el medio ambiente, generando valor en negocios conscientes y competitivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -40,7 +40,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Gestión de <em>stocks</em> verde',
+        titulo: 'Gestión de <em>stock</em> verde',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -145,7 +145,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Marketing digital verde',
+        titulo: 'Identidad corporativa verde',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -258,7 +258,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_62110066_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -357,12 +357,12 @@ export default {
         'Sello o certificado que indica que un producto cumple con criterios de sostenibilidad y respeto ambiental.',
     },
     {
-      termino: 'Gestión de stock verde',
+      termino: 'Gestión de <em>stock</em> verde',
       significado:
         'Administración de inventarios que incorpora criterios ecológicos para reducir el impacto ambiental del almacenamiento y distribución.',
     },
     {
-      termino: 'Greenwashing',
+      termino: '<em>Greenwashing</em>',
       significado:
         'Práctica engañosa en la que una empresa finge ser ecológica mediante publicidad sin acciones reales de sostenibilidad.',
     },
@@ -382,7 +382,7 @@ export default {
         'Sensores conectados que miden y controlan variables ambientales en tiempo real, mejorando el manejo sostenible de los inventarios.',
     },
     {
-      termino: '<em>Just-in-Time</em> Verde',
+      termino: '<em>Just-in-Time</em> verde',
       significado:
         'Técnica de inventario que abastece productos solo cuando son necesarios, reduciendo almacenamiento y desperdicio.',
     },
@@ -392,12 +392,12 @@ export default {
         'Proceso de recolección de productos usados o empaques para su reciclaje, reutilización o eliminación responsable.',
     },
     {
-      termino: 'Marketing digital verde',
+      termino: '<em>Marketing</em> digital verde',
       significado:
         'Uso de herramientas digitales para promocionar productos sostenibles, reduciendo el impacto ambiental de la publicidad.',
     },
     {
-      termino: 'Merchandising ecológico',
+      termino: '<em>Merchandising</em> ecológico',
       significado:
         'Material promocional fabricado con criterios de sostenibilidad, como semilleros o artículos reutilizables.',
     },
@@ -412,7 +412,7 @@ export default {
         'Optimización de sitios web con criterios sostenibles para mejorar su posicionamiento y reducir su huella ecológica.',
     },
     {
-      termino: 'Software ERP verde',
+      termino: '<em>Software</em> ERP verde',
       significado:
         'Sistemas de gestión empresarial con indicadores ambientales para una operación más sostenible.',
     },

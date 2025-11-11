@@ -43,16 +43,16 @@
           span.decorated-title Tipos de canales de distribución verdes
 
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
-          .row.align-items-center.ps-5(titulo="Directos")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Directos")
             .col-lg-8
               p El producto va del productor al consumidor final sin intermediarios. Esto permite un mayor control sobre las prácticas ambientales, la reducción de emisiones por transporte y la eliminación de embalajes innecesarios.
               p.mb-0 <strong>Ejemplo.</strong>
-              p Venta online de productos orgánicos directamente desde la finca hasta el cliente, utilizando empaques biodegradables y transporte local.
+              p Venta <em>online</em> de productos orgánicos directamente desde la finca hasta el cliente, utilizando empaques biodegradables y transporte local.
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/4.png', alt='Imagen de acompañamiento')
 
-          .row.align-items-center.ps-5(titulo="Indirectos")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Indirectos")
             .col-lg-8
               p Involucran intermediarios (mayoristas, minoristas, distribuidores), pero estos deben operar bajo estándares sostenibles, como certificaciones verdes o prácticas responsables.
               p.mb-0 <strong>Ejemplo.</strong>
@@ -61,7 +61,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/5.png', alt='Imagen de acompañamiento')
                 
-          .row.align-items-center.ps-5(titulo="Directos")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Directos")
             .col-lg-8
               p Combinan los dos modelos anteriores, aprovechando las ventajas del canal directo (cercanía y control ambiental) y del canal indirecto (mayor alcance y cobertura de mercado).
               p.mb-0 <strong>Ejemplo.</strong>
@@ -99,8 +99,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 7.
           span Características de la distribución sostenible
-        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema2/7-mob.svg', alt='En la imagen se muestra las características de la logística verde: 1. Eficiencia energética: uso de tecnologías limpias en transporte y almacenamiento., 2. Transparencia: gestión clara del impacto ambiental mediante documentación., 3. Cooperación interorganizacional: alianzas para compartir recursos y reducir emisiones., 4. Flexibilidad: adaptación a normas ambientales y cambios del mercado sostenible.')
-        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema2/7.svg', alt='En la imagen se muestra las características de la logística verde: 1. Eficiencia energética: uso de tecnologías limpias en transporte y almacenamiento., 2. Transparencia: gestión clara del impacto ambiental mediante documentación., 3. Cooperación interorganizacional: alianzas para compartir recursos y reducir emisiones., 4. Flexibilidad: adaptación a normas ambientales y cambios del mercado sostenible.')
+        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema2/7-mob.svg', alt='En la imagen se muestra las características de la logística verde: Eficiencia energética: uso de tecnologías limpias en transporte y almacenamiento. Transparencia: gestión clara del impacto ambiental mediante documentación. Cooperación interorganizacional: alianzas para compartir recursos y reducir emisiones. Flexibilidad: adaptación a normas ambientales y cambios del mercado sostenible.')
+        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema2/7.svg', alt='En la imagen se muestra las características de la logística verde: Eficiencia energética: uso de tecnologías limpias en transporte y almacenamiento. Transparencia: gestión clara del impacto ambiental mediante documentación. Cooperación interorganizacional: alianzas para compartir recursos y reducir emisiones. Flexibilidad: adaptación a normas ambientales y cambios del mercado sostenible.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     figure
@@ -128,7 +128,7 @@
               .col-sm-10.col-lg-8
                 h5.mb-4 Tecnologías limpias
                 p Implementación de energías renovables o vehículos con baja o nula emisión de carbono.
-                p.mb-4.mb-lg-0 <strong>Ejemplo</strong>. Flota de camiones eléctricos o con biodiésel para el reparto urbano.
+                p.mb-4.mb-lg-0 <strong>Ejemplo</strong>: flota de camiones eléctricos o con biodiésel para el reparto urbano.
               .col-sm-8.col-lg-3.col-xl-2
                 figure
                   img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema2/11.svg', alt='Imagen ilustrativa')
@@ -137,7 +137,7 @@
               .col-sm-10.col-lg-8
                 h5.mb-4 Sistemas de monitoreo
                 p Uso de <em>software</em> y sensores para medir consumo energético, rutas, emisiones y desempeño.
-                p.mb-4.mb-lg-0 <strong>Ejemplo</strong>. Plataforma digital que mide en tiempo real la huella de carbono por trayecto.
+                p.mb-4.mb-lg-0 <strong>Ejemplo</strong>: plataforma digital que mide en tiempo real la huella de carbono por trayecto.
               .col-sm-8.col-lg-3.col-xl-2
                 figure
                   img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema2/12.svg', alt='Imagen ilustrativa')
@@ -146,7 +146,7 @@
               .col-sm-10.col-lg-8
                 h5.mb-4 Alianzas logísticas
                 p Cooperación con aliados que poseen certificaciones ambientales o políticas verdes.
-                p.mb-4.mb-lg-0 <strong>Ejemplo</strong>. Acuerdo con proveedores certificados en sostenibilidad para distribución conjunta.
+                p.mb-4.mb-lg-0 <strong>Ejemplo</strong>: acuerdo con proveedores certificados en sostenibilidad para distribución conjunta.
               .col-sm-8.col-lg-3.col-xl-2
                 figure
                   img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema2/13.svg', alt='Imagen ilustrativa')
@@ -172,15 +172,15 @@
                 th.col-5(style="background-color: #F2FBE4") Ejemplo
             tbody
               tr
-                td Red colaborativa
+                td Red colaborativa.
                 td Integración de todos los actores logísticos con compromiso ambiental: productores, proveedores, transportistas y distribuidores.
                 td Una red de empresas agrícolas que comparten transporte de productos orgánicos para reducir emisiones.
               tr
-                td Centros de distribución verdes
+                td Centros de distribución verdes.
                 td Infraestructura con diseño sostenible, uso eficiente de recursos, reciclaje y tecnologías limpias.
                 td Un almacén que usa paneles solares, sistema de recolección de agua lluvia y clasificación de residuos.
               tr
-                td Plataformas digitales
+                td Plataformas digitales.
                 td Sistemas tecnológicos para planificar rutas, gestionar inventarios y evitar desplazamientos innecesarios.
                 td Aplicación móvil que agrupa entregas por zona geográfica para reducir recorridos.
 

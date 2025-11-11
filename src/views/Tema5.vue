@@ -67,22 +67,22 @@
     #t_5_3(data-aos='zoom-in-left').titulo-segundo.color-acento-contenido
       h3 5.3 Estructura
 
-    p.mb-4 Para diseñar una campaña promocional verde efectiva, se deben seguir los siguientes pasos
+    p.mb-4 Para diseñar una campaña promocional verde efectiva, se deben seguir los siguientes pasos.
 
-    .p-5.bg-slider.rounded-3
+    .p-2.p-sm-5.bg-slider.rounded-3
       .tarjeta.tarjeta--blanca.p-4.py-5
         SlyderA(tipo="b")
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-5.mb-3.mb-lg-0
               h4.mb-4 Diagnóstico y análisis del entorno
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Identificar tendencias de consumo verde en el mercado.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Analizar los valores, actitudes y comportamientos del público objetivo.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Estudiar la competencia y el posicionamiento actual de la marca en temas de sostenibilidad.
             .col-sm-8.col-lg-5
@@ -93,10 +93,10 @@
             .col-sm-10.col-lg-5.mb-3.mb-lg-0
               h4.mb-4 Definición de objetivos
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Establecer metas claras, medibles y alcanzables.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Pueden estar orientadas a aumentar la visibilidad de un producto ecológico, mejorar la imagen de marca, educar al público o incentivar un cambio de comportamiento.
             .col-sm-8.col-lg-5
@@ -107,10 +107,10 @@
             .col-sm-10.col-lg-5.mb-3.mb-lg-0
               h4.mb-4 Segmentación del público
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Definir grupos específicos de consumidores que tengan afinidad o interés en temas de sostenibilidad.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Se pueden segmentar por edad, estilo de vida, ubicación geográfica, nivel educativo, entre otros.
             .col-sm-8.col-lg-5
@@ -121,13 +121,13 @@
             .col-sm-10.col-lg-5.mb-3.mb-lg-0
               h4.mb-4 Diseño del mensaje
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Elaborar contenidos que reflejen los valores sostenibles de la marca.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Usar un lenguaje claro, inclusivo y motivador.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Incluir llamados a la acción, testimonios, historias reales o evidencias científicas.
             .col-sm-8.col-lg-5
@@ -138,10 +138,12 @@
             .col-sm-10.col-lg-5.mb-3.mb-lg-0
               h4.mb-4 Selección de medios
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
-                  | Elegir canales de comunicación que refuercen el mensaje verde, como redes sociales, blogs ecológicos, correos, podcasts, eventos sostenibles o alianzas con influencers ambientales.
-                li 
+                  | 
+                  div
+                    p Elegir canales de comunicación que refuercen el mensaje verde, como redes sociales, <em>blogs</em> ecológicos, correos, <em>podcasts</em>, eventos sostenibles o alianzas con influencers ambientales.
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Priorizar medios con bajo impacto ambiental (digitales, reutilizables o reciclables).
             .col-sm-8.col-lg-5
@@ -152,10 +154,10 @@
             .col-sm-10.col-lg-5.mb-3.mb-lg-0
               h4.mb-4 Ejecución de la campaña
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Coordinar las actividades logísticas y de difusión.
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Implementar acciones promocionales como descuentos verdes, concursos ecológicos o experiencias sostenibles para el consumidor.
             .col-sm-8.col-lg-5
@@ -167,16 +169,16 @@
               h4.mb-4 Evaluación de resultados
               p Medir el impacto de la campaña a través de indicadores:
               ul.lista-ul--color.mb-4.mb-lg-0
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Alcance (número de personas expuestas).
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Participación (interacciones, visitas).
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Cambio de comportamiento (estudios de seguimiento).
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Retorno de inversión (económico como social).
             .col-sm-8.col-lg-5
@@ -252,21 +254,21 @@
           span.decorated-title Tipos de materiales promocionales verdes
 
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
-          .row.align-items-center.ps-5(titulo="<em>Merchandising</em> sostenible")
+          .row.align-items-center.justify-content-center.ps-5(titulo="<em>Merchandising</em> sostenible")
             .col-lg-8
               p Camisetas de algodón orgánico con mensajes ambientales como “Protege el planeta”. También se incluyen bolsas reutilizables, botellas de acero inoxidable y cuadernos con papel reciclado. Estos productos no solo promueven la marca, sino también el compromiso ambiental.
             .col-sm-8.col-lg-4.col-xl-3
               figure
                 img(src='@/assets/curso/temas/tema5/22.png', alt='Imagen de acompañamiento')
 
-          .row.align-items-center.ps-5(titulo="Publicidad digital ecológica")
+          .row.align-items-center.justify-content-center.ps-5(titulo="Publicidad digital ecológica")
             .col-lg-8
               p Anuncios animados difundidos a través de plataformas de bajo consumo energético (páginas optimizadas, correos ecológicos, redes sociales). Se evita el uso de papel y se maximiza el alcance con un menor impacto ambiental. Los mensajes suelen enfocarse en acciones sostenibles.
             .col-sm-8.col-lg-4.col-xl-3
               figure
                 img(src='@/assets/curso/temas/tema5/23.png', alt='Imagen de acompañamiento')
 
-          .row.align-items-center.ps-5(titulo="<em>Packaging</em> verde")
+          .row.align-items-center.justify-content-center.ps-5(titulo="<em>Packaging</em> verde")
             .col-lg-8
               p Empaques fabricados con materiales compostables, reciclables o biodegradables (como cartón reciclado). Algunos incluyen mensajes educativos orientando al consumidor sobre cómo desechar correctamente el envase o cómo reutilizarlo. Esto refuerza la coherencia entre el producto y los valores de la marca.
             .col-sm-8.col-lg-4.col-xl-3

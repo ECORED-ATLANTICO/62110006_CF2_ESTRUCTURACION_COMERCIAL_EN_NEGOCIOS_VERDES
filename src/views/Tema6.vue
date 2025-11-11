@@ -12,7 +12,7 @@
     .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
         div.banner-text.bg-white
-          p.mb-0 El marketing digital verde utiliza medios digitales de forma responsable para promover prácticas y productos sostenibles. Reduce el uso de recursos físicos y apuesta por contenidos que generan conciencia ambiental. Conecta con audiencias comprometidas y fortalece la reputación de marcas ecológicas.
+          p.mb-0 El <em>marketing</em> digital verde utiliza medios digitales de forma responsable para promover prácticas y productos sostenibles. Reduce el uso de recursos físicos y apuesta por contenidos que generan conciencia ambiental. Conecta con audiencias comprometidas y fortalece la reputación de marcas ecológicas.
 
     Separador
     #t_6_1(data-aos='zoom-in-left').titulo-segundo.color-acento-contenido
@@ -23,7 +23,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El marketing digital verde se refiere a la aplicación de herramientas y canales digitales para la promoción y comercialización de productos y servicios que tienen un enfoque sostenible. Esta modalidad busca no solo impulsar el consumo de opciones amigables con el medio ambiente, sino también reducir la huella ecológica asociada a las actividades publicitarias y promocionales. Así, el marketing digital verde promueve prácticas responsables tanto en el diseño de las campañas como en la interacción con los consumidores, incentivando decisiones de compra conscientes y respetuosas con el entorno natural (Chen & Chang, 2013).
+        p.mb-0 El <em>marketing</em> digital verde se refiere a la aplicación de herramientas y canales digitales para la promoción y comercialización de productos y servicios que tienen un enfoque sostenible. Esta modalidad busca no solo impulsar el consumo de opciones amigables con el medio ambiente, sino también reducir la huella ecológica asociada a las actividades publicitarias y promocionales. Así, el <em>marketing</em> digital verde promueve prácticas responsables tanto en el diseño de las campañas como en la interacción con los consumidores, incentivando decisiones de compra conscientes y respetuosas con el entorno natural (Chen & Chang, 2013).
 
     Separador
     #t_6_2(data-aos='zoom-in-left').titulo-segundo.color-acento-contenido
@@ -49,7 +49,7 @@
         .row.align-items-center.justify-content-center
           .col-11.col-lg-7.mb-4.mb-md-0
             h4 <em>Marketing</em> de contenidos sostenibles
-            p.mb-4.mb-lg-0 Esta estrategia se enfoca en la creación y difusión de materiales educativos y relevantes, como artículos de blog, videos, infografías o podcast, que informen, sensibilicen y eduquen a la audiencia sobre problemáticas ambientales y soluciones responsables. Este tipo de contenido fortalece la relación con el público, genera confianza y posiciona a la marca como una entidad comprometida con el cuidado del planeta, ayudando a construir una comunidad más consciente y participativa.
+            p.mb-4.mb-lg-0 Esta estrategia se enfoca en la creación y difusión de materiales educativos y relevantes, como artículos de blog, videos, infografías o <em>podcast</em>, que informen, sensibilicen y eduquen a la audiencia sobre problemáticas ambientales y soluciones responsables. Este tipo de contenido fortalece la relación con el público, genera confianza y posiciona a la marca como una entidad comprometida con el cuidado del planeta, ayudando a construir una comunidad más consciente y participativa.
           .col-11.col-sm-8.col-md-6.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/8.png', alt='Imagen decorativa')
@@ -64,9 +64,9 @@
 
     .row.justify-content-center
       .col-lg-10.col-xl-8
-        .p-4.bg-degradado-purple.rounded-3.d-flex.align-items-center.justify-content-between.position-relative.flex-wrap.gap-3
+        .ms-4.ms-sm-0.p-4.bg-degradado-purple.rounded-3.d-flex.align-items-center.justify-content-between.position-relative.flex-wrap.gap-3
           img.links-image(src='@/assets/curso/temas/tema6/15.svg', alt='Imagen decorativa')
-          p.mb-0.ms-4 <strong>www.lotodelsur.com</strong><br>Aplicación de estrategias de marketing verde
+          p.mb-0.ms-4 <strong>www.lotodelsur.com</strong><br>Aplicación de estrategias de <em>marketing</em> verde
           a.ms-4.ms-sm-0.boton.color-acento-botones(href="www.lotodelsur.com" target="_blank")
             span www.lotodelsur.com
             i.fa-solid.fa-link
@@ -114,14 +114,14 @@
             .row.align-items-center.justify-content-center
               .col-sm-10.col-lg-8.col-xl-9
                 h5.mb-4 Plataformas de análisis
-                p.mb-4.mb-lg-0 Herramientas tecnológicas que ayudan a medir y evaluar el impacto ambiental de las campañas digitales. Por ejemplo, calculan la huella de carbono generada por la actividad online y permiten ajustar estrategias para minimizar la contaminación digital, fomentando una comunicación más eficiente y sostenible.
+                p.mb-4.mb-lg-0 Herramientas tecnológicas que ayudan a medir y evaluar el impacto ambiental de las campañas digitales. Por ejemplo, calculan la huella de carbono generada por la actividad <em>online</em> y permiten ajustar estrategias para minimizar la contaminación digital, fomentando una comunicación más eficiente y sostenible.
               .col-sm-8.col-lg-3.col-xl-2
                 figure
                   img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema6/14.svg', alt='Imagen ilustrativa')
 
     .row.justify-content-center
       .col-xl-10
-        .p-4.bg-degradado-purple.rounded-3.d-flex.align-items-center.justify-content-between.position-relative.flex-wrap.gap-3
+        .ms-4.ms-sm-0.p-4.bg-degradado-purple.rounded-3.d-flex.align-items-center.justify-content-between.position-relative.flex-wrap.gap-3
           img.links-image(src='@/assets/curso/temas/tema6/15.svg', alt='Imagen decorativa')
           p.mb-0.ms-4 <strong>¿Qué es mercadeo verde (<em>Green Marketing</em>)?</strong> Ejemplos de mercadeo verde en el mundo
           a.ms-4.ms-lg-0.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PbdVwChb71Q" target="_blank")
