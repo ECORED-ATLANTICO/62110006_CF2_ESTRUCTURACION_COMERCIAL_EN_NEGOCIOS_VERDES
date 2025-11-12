@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            'La gestión de <em>stocks</em> verde busca únicamente reducir costos sin considerar el impacto ambiental.',
+            'La gestión de <em>stock</em> verde busca únicamente reducir costos sin considerar el impacto ambiental.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -304,7 +304,7 @@ export default {
         {
           id: 13,
           texto:
-            'El <em>marketing</em> digital verde incluye estrategias como el SEO verde y el e-commerce responsable.',
+            'El <em>marketing</em> digital verde incluye estrategias como el SEO verde y el <em>e-commerce</em> responsable.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

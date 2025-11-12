@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Distribución y promoción sostenible',
     Description:
-      'El componente formativo Distribución y promoción sostenible promueve prácticas comerciales sostenibles mediante la gestión eficiente de <em>stocks</em> verdes, distribución ecoamigable, comunicación responsable y <em>marketing</em> digital verde. Fortalece competencias para implementar estrategias respetuosas con el medio ambiente, generando valor en negocios conscientes y competitivos.',
+      'El componente formativo Distribución y promoción sostenible promueve prácticas comerciales sostenibles mediante la gestión eficiente de <em>stock</em> verdes, distribución ecoamigable, comunicación responsable y <em>marketing</em> digital verde. Fortalece competencias para implementar estrategias respetuosas con el medio ambiente, generando valor en negocios conscientes y competitivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

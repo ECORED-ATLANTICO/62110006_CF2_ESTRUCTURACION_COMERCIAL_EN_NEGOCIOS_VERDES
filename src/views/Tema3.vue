@@ -159,6 +159,8 @@
                 figure
                   img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema3/10.svg', alt='Imagen ilustrativa')
 
+    p.mb-5 Se recomienda revisar el siguiente video: plan de comunicación de producto sostenible  
+
     figure.mb-5
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/H891NO0WKdk" title="Plan de comunicación de producto sostenible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)

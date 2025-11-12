@@ -103,6 +103,7 @@
         img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema2/7.svg', alt='En la imagen se muestra las características de la logística verde: Eficiencia energética: uso de tecnologías limpias en transporte y almacenamiento. Transparencia: gestión clara del impacto ambiental mediante documentación. Cooperación interorganizacional: alianzas para compartir recursos y reducir emisiones. Flexibilidad: adaptación a normas ambientales y cambios del mercado sostenible.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
+    p.mb-5 Se recomienda revisar el siguiente video: Canales de distribución y comercialización según la tecnología para la venta.
     figure
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/YzMfN8fHlP8" title="Canales de distribución y comercialización según la tecnología para la venta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)

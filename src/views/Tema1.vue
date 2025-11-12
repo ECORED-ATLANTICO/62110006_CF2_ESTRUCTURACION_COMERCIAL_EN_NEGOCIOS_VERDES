@@ -46,8 +46,8 @@
             .row.align-items-center.justify-content-center
               .col-md-8
                 h4.mb-4 <em>Stock</em> de ciclo
-                p Reserva que permite afrontar variaciones inesperadas en la demanda o retrasos en entregas.
-                p.mb-0.mb-xl-3 Ejemplo práctico: mantener un <em>stock</em> de semillas certificadas orgánicas para garantizar si hay demoras en el suministro.
+                p Inventario planificado para satisfacer la demanda habitual en un periodo.
+                p.mb-0.mb-xl-3 Ejemplo práctico: almacenar productos orgánicos frescos para la venta diaria en supermercados ecológicos.
               .col-6.col-md-3
                 figure
                   img(src='@/assets/curso/temas/tema1/4.svg', alt='Imagen ilustrativa', data-aos="fade-up")
@@ -80,7 +80,7 @@
                 p.mb-0.mb-xl-3 Ejemplo práctico: almacén con productos orgánicos certificados, usando empaques compostables y biodegradables.
               .col-6.col-md-3
                 figure
-                  img(src='@/assets/curso/temas/tema1/5.svg', alt='Imagen ilustrativa', data-aos="fade-up")
+                  img(src='@/assets/curso/temas/tema1/7.svg', alt='Imagen ilustrativa', data-aos="fade-up")
 
     Separador
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
@@ -107,8 +107,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Características de la gestión de <em>stock</em> verde
-        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/8-mob.svg', alt='En la imagen se describen las características de la gestión de stocks verde: Minimiza residuos con embalajes sostenibles. Controla origen y destino para asegurar sostenibilidad. Elige proveedores responsables ambientalmente. Mantiene inventarios justos para evitar desperdicios.')
-        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/8.svg', alt='En la imagen se describen las características de la gestión de stocks verde: Minimiza residuos con embalajes sostenibles. Controla origen y destino para asegurar sostenibilidad. Elige proveedores responsables ambientalmente. Mantiene inventarios justos para evitar desperdicios.')
+        img.d-sm-none.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/8-mob.svg', alt='En la imagen se describen las características de la gestión de stock verde: Minimiza residuos con embalajes sostenibles. Controla origen y destino para asegurar sostenibilidad. Elige proveedores responsables ambientalmente. Mantiene inventarios justos para evitar desperdicios.')
+        img.d-none.d-sm-block.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/8.svg', alt='En la imagen se describen las características de la gestión de stock verde: Minimiza residuos con embalajes sostenibles. Controla origen y destino para asegurar sostenibilidad. Elige proveedores responsables ambientalmente. Mantiene inventarios justos para evitar desperdicios.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
