@@ -12,7 +12,7 @@
     .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
         div.banner-text.bg-white
-          p.mb-0 El transporte constituye un pilar esencial en la dinámica económica y social, ya que posibilita la conexión entre territorios, personas y mercados. Comprender sus fundamentos permite analizar cómo los flujos de bienes y servicios generan valor en la cadena de suministro y contribuyen al logro de objetivos estratégicos en las organizaciones.
+          p.mb-0 La comunicación comercial sostenible transmite mensajes claros, honestos y alineados con valores ambientales y sociales. Busca conectar con consumidores conscientes sin recurrir al greenwashing ni a la exageración. Es una herramienta clave para construir confianza, educar al cliente y fortalecer la reputación de marca.
 
     Separador
     #t_3_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
@@ -73,7 +73,7 @@
             .col-sm-8.col-lg-4.col-xl-3
               figure
                 img(src='@/assets/curso/temas/tema3/4.png', alt='Imagen de acompañamiento')
-          .row.align-items-center.justify-content-center.ps-5(titulo="Comunicación ambiental")
+          .row.align-items-center.justify-content-center.ps-5(titulo="Comunicación ética")
             .col-lg-8
               p Se centra en la integridad y transparencia del mensaje, evitando exageraciones o promesas falsas. Incluye:
               ul.lista-ul--color.mb-4.mb-lg-0
@@ -95,7 +95,7 @@
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
       h3 3.3 Usos
 
-    p.mb-5 La comunicación comercial sostenible se manifiesta en distintas formas según su enfoque. A continuación, se describen tres tipos principales: ambiental, social y ética, cada uno con objetivos específicos y ejemplos de aplicación.
+    p.mb-5 La comunicación comercial sostenible puede integrarse en distintas estrategias prácticas que refuerzan el compromiso ambiental y social de las empresas, generando valor tanto para la marca como para la sociedad. Algunas de las más utilizadas son:
 
     .row.align-items-stretch.justify-content-center
       .col-lg-6.mb-4.height-available
@@ -158,6 +158,14 @@
               .col-sm-8.col-lg-3.col-xl-2
                 figure
                   img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema3/10.svg', alt='Imagen ilustrativa')
+
+            .row.align-items-center.justify-content-center
+              .col-sm-10.col-lg-8.col-xl-9
+                h5.mb-4 <em>Merchandising</em> ecológico
+                p.mb-4.mb-lg-0 Semilleros, lápices plantables, libretas hechas con papel de caña o fibras naturales.
+              .col-sm-8.col-lg-3.col-xl-2
+                figure
+                  img.mb-4.mb-lg-0.w-81(src='@/assets/curso/temas/tema3/11.svg', alt='Imagen ilustrativa')
 
     p.mb-5 Se recomienda revisar el siguiente video: plan de comunicación de producto sostenible  
 

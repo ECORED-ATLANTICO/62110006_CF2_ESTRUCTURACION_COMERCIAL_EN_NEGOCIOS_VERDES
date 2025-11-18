@@ -204,7 +204,7 @@
 
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
-          .row.justify-content-center.align-items-center.ps-5(titulo="Comunicación ambiental")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Rutas logísticas más eficientes")
             .col-lg-12
               p Elegir ubicaciones que permitan recorridos cortos y directos reduce el uso de combustibles, emisiones contaminantes, tiempos y costos de transporte.
               p Ejemplo práctico: almacén ubicado cerca de zonas urbanas clave para acortar los trayectos de reparto.

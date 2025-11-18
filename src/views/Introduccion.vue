@@ -21,7 +21,6 @@
     figure.mb-5
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/6wCe3GlVa14" title="Distribución y promoción sostenible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        <iframe width="859" height="483" src="https://www.youtube.com/embed/6wCe3GlVa14" title="Distribución y promoción sostenible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       figcaption Video: Distribución y promoción sostenible
 
 </template>

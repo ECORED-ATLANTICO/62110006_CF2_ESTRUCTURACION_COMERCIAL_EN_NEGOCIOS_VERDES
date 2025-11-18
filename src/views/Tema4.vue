@@ -52,7 +52,7 @@
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6.mb-5.mb-lg-0
               p.mb-4 Empleo de colores vinculados simbólicamente con la naturaleza, como el verde musgo, azul marino o marrón tierra. Estas tonalidades transmiten sensaciones de frescura, equilibrio y conexión con el entorno. Por ejemplo, marcas como The Body Shop y Patagonia han construido gran parte de su imagen visual en torno a estos colores, reforzando así su vínculo con el respeto al medio ambiente y al consumidor consciente.
-              a.d-flex.justify-content-center.justify-content-lg-start.mb-4(href="www.thebodyshop.com" target="_blank")
+              a.d-flex.justify-content-center.justify-content-lg-start.mb-4(href="https://www.thebodyshop.com" target="_blank")
                 .bg-color-primario-p70.text-white.link-icon
                   i.fa-solid.fa-link
                 .bg-color-primario-p5.p-2.link-text
@@ -83,7 +83,7 @@
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6.mb-5.mb-lg-0
               p.mb-4 Implementación de comportamientos sostenibles en cada punto de contacto con el cliente, desde el empaque hasta el servicio posventa. Un ejemplo es Apple, que ha reducido progresivamente el uso de plástico en sus empaques, incorporando materiales reciclados y promoviendo programas de devolución de dispositivos. Aunque su enfoque ha sido discutido, representa un caso relevante de cómo una marca global puede integrar la sostenibilidad en sus procesos de atención y fidelización.
-              a.d-flex.justify-content-center.justify-content-lg-start.mb-4(href="www.apple.com" target="_blank")
+              a.d-flex.justify-content-center.justify-content-lg-start.mb-4(href="https://www.apple.com/co/environment/" target="_blank")
                 .bg-color-primario-p70.text-white.link-icon
                   i.fa-solid.fa-link
                 .bg-color-primario-p5.p-2.link-text

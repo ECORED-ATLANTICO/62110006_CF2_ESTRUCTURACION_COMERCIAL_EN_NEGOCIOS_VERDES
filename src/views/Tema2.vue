@@ -46,8 +46,7 @@
           .row.justify-content-center.align-items-center.ps-5(titulo="Directos")
             .col-lg-8
               p El producto va del productor al consumidor final sin intermediarios. Esto permite un mayor control sobre las prácticas ambientales, la reducción de emisiones por transporte y la eliminación de embalajes innecesarios.
-              p.mb-0 <strong>Ejemplo.</strong>
-              p Venta <em>online</em> de productos orgánicos directamente desde la finca hasta el cliente, utilizando empaques biodegradables y transporte local.
+              p.mb-0 <strong>Ejemplo:</strong> venta <em>online</em> de productos orgánicos directamente desde la finca hasta el cliente, utilizando empaques biodegradables y transporte local.
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/4.png', alt='Imagen de acompañamiento')
@@ -55,17 +54,15 @@
           .row.justify-content-center.align-items-center.ps-5(titulo="Indirectos")
             .col-lg-8
               p Involucran intermediarios (mayoristas, minoristas, distribuidores), pero estos deben operar bajo estándares sostenibles, como certificaciones verdes o prácticas responsables.
-              p.mb-0 <strong>Ejemplo.</strong>
-              p Distribuidores y tiendas que comercializan productos con sellos ecológicos, como supermercados que exigen criterios ambientales a sus proveedores.
+              p.mb-0 <strong>Ejemplo:</strong> distribuidores y tiendas que comercializan productos con sellos ecológicos, como supermercados que exigen criterios ambientales a sus proveedores.
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/5.png', alt='Imagen de acompañamiento')
                 
-          .row.justify-content-center.align-items-center.ps-5(titulo="Directos")
+          .row.justify-content-center.align-items-center.ps-5(titulo="Híbridos")
             .col-lg-8
               p Combinan los dos modelos anteriores, aprovechando las ventajas del canal directo (cercanía y control ambiental) y del canal indirecto (mayor alcance y cobertura de mercado).
-              p.mb-0 <strong>Ejemplo.</strong>
-              p Empresas que venden en tiendas físicas ecoeficientes y también a través de plataformas digitales sostenibles que promueven entregas neutras en carbono.
+              p.mb-0 <strong>Ejemplo:</strong> empresas que venden en tiendas físicas ecoeficientes y también a través de plataformas digitales sostenibles que promueven entregas neutras en carbono.
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen de acompañamiento')
@@ -73,7 +70,7 @@
     .fullwidth-bg.fullwidth-bg--1
     Separador
     #t_2_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
-      h3 2.3 Clasificación
+      h3 2.3 Características
 
     .row.justify-content-center.align-items-center.mb-5.z-2
       .col-md-10.col-xl-6.mb-4.mb-xl-0

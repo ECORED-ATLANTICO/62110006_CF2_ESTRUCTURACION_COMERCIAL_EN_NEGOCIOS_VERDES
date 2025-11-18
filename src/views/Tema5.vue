@@ -67,7 +67,7 @@
     #t_5_3(data-aos='zoom-in-left').titulo-segundo.color-acento-contenido
       h3 5.3 Estructura
 
-    p.mb-4 Para diseñar una campaña promocional verde efectiva, se deben seguir los siguientes pasos.
+    p.mb-4 Para diseñar una campaña promocional verde efectiva, se deben seguir los siguientes pasos:
 
     .p-2.p-sm-5.bg-slider.rounded-3
       .tarjeta.tarjeta--blanca.p-4.py-5
