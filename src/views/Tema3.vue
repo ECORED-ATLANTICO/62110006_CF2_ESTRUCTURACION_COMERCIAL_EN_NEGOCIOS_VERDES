@@ -125,7 +125,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/6.png', alt='Imagen de acompañamiento', data-aos="fade-up")
       .col-xl-8.p-5.bg-slider.rounded-3
-        .tarjeta.tarjeta--blanca.p-4.py-5
+        .tarjeta.tarjeta--blanca.p-4.py-5.mb-2
           SlyderA(tipo="b")
             .row.align-items-center.justify-content-center
               .col-sm-10.col-lg-8.col-xl-9

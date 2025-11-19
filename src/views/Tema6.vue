@@ -41,7 +41,7 @@
         .row.align-items-center.justify-content-center
           .col-11.col-lg-7.mb-4.mb-md-0
             h4 SEO verde
-            p.mb-4.mb-lg-0 (<em>Search Engine Optimization</em>), por sus siglas en inglés: es una técnica que consiste en mejorar la visibilidad de contenidos relacionados con la sostenibilidad en los motores de búsqueda como Google. Esto se logra seleccionando palabras clave vinculadas al medio ambiente, optimizando la estructura del sitio web, utilizando servidores con bajo consumo energético y reduciendo el tamaño de los archivos digitales para disminuir su huella ecológica. De esta manera, los usuarios pueden acceder más fácilmente a información y productos sostenibles, lo cual incrementa tanto su alcance como el posicionamiento de la marca en un contexto digital más responsable.
+            p.mb-4.mb-lg-0 (<em>Search Engine Optimization</em>, por sus siglas en inglés): es una técnica que consiste en mejorar la visibilidad de contenidos relacionados con la sostenibilidad en los motores de búsqueda como Google. Esto se logra seleccionando palabras clave vinculadas al medio ambiente, optimizando la estructura del sitio web, utilizando servidores con bajo consumo energético y reduciendo el tamaño de los archivos digitales para disminuir su huella ecológica. De esta manera, los usuarios pueden acceder más fácilmente a información y productos sostenibles, lo cual incrementa tanto su alcance como el posicionamiento de la marca en un contexto digital más responsable.
           .col-11.col-sm-8.col-md-6.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/7.png', alt='Imagen decorativa')
