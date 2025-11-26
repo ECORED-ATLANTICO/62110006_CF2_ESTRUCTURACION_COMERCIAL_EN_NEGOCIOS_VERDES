@@ -1,1 +1,1 @@
-module.exports = 'Estructuración Comercial en Negocios Verdes'
+module.exports = 'Distribución y promoción sostenible'
